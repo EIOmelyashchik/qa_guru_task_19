@@ -15,7 +15,7 @@ import static config.ProjectData.androidConfig;
 import static config.ProjectData.browserStackConfig;
 
 @Tag("appium_android")
-@DisplayName("Successful search in wikipedia android app (SELENIDE)")
+@DisplayName("Successful search in wikipedia android app (APPIUM)")
 public class BrowserStackAndroidSampleTests {
     private  AndroidDriver<AndroidElement> driver;
 
